@@ -1,0 +1,218 @@
+.background{
+    background-color:lightskyblue ;
+    height: 823px;
+}
+
+.logo{
+    padding-left: 50px;
+}
+
+.icon-size{
+    inline-size: 34px;
+    margin-top: -40px;
+    margin-left: 10px;
+}
+
+.logo h3{
+    padding-left: 50px;
+    padding-top: 20px;
+    font-size: 24px;
+    color: black;
+}
+
+nav ul{
+    list-style: none;
+}
+ 
+.nav-con{
+    margin-left: 100px;
+    margin-top: -45px;
+}
+
+
+nav li{
+    float: left;
+    padding-left: 40px;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+nav li:hover{
+    cursor: pointer;
+    color:orange ;
+}
+
+.active{
+    color: white;
+    font-weight: bold;
+ }
+
+.form-input{
+    width: 255px;
+    margin-left: 75%;
+    border-color: black;
+    border-radius: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    background-color: transparent;
+    margin-top: -18px;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.text h4{
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+
+.text{
+    width: 575px;
+    height: 400px;
+
+    margin-left: 122px;
+    margin-top: 120px;
+}
+
+
+.text h1{
+    font-size: 48px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.text p{
+    margin-top: 30px;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.email{
+    margin-left: 122px;
+ 
+}
+
+.contact{
+    margin-top: -130px;
+}
+
+.contact p{
+    margin-left: 185px;
+    margin-top: -35px;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.phone{
+    margin-left: 330px;
+    margin-top: -55px;
+}
+
+.contact h6{
+    margin-left: 390px;
+    margin-top: -35px;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.map{
+    width: 575px;
+    height: 160px;
+    background-color: pink;
+    margin-top: 27px;
+    margin-left: 122px;
+}
+
+.form-style{
+    width: 600px;
+    height: 500px;
+    background-color: rgb(233, 175, 185);
+    margin-top: 115px;
+    padding-top: 30px;
+
+}
+
+.form-style h3{
+    padding-left:30px;
+}
+
+
+.form-in{
+    
+    width: 90%;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 25px;
+    padding-left: 20px;
+    border-radius: 25px;
+    border: none;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+}
+.mess{
+    padding-left: 30px;
+}
+.message{
+    width: 540px;
+    height: 100px;
+    border-radius: 25px;
+    border: none;
+    margin-top:10px ;
+    padding-top: 15px;
+    padding-left: 10px;
+}
+
+button{
+    width: 170px;
+    height: 60px;
+    margin-top: 25px;
+    margin-left: 400px;
+    border-radius: 40px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+footer{
+    width: 100%;
+
+    
+}
+
+footer h4{
+    padding-left: 130px;
+    font-size: 24px;
+    margin-top: 60px;
+    color: white;
+}
+
+.yt{
+    inline-size: 34px;
+    margin-left: 1050px;
+    margin-top: -30px;
+
+}
+
+
+.fb{
+    inline-size: 34px;
+    margin-left: 1100px;
+    margin-top: -35px;
+}
+
+.twt{
+    inline-size: 34px;
+    margin-left: 1150px;
+    margin-top: -35px;
+}
+
+.ig{
+    inline-size: 34px;
+    margin-left: 1200px;
+    margin-top: -35px;
+}
+
