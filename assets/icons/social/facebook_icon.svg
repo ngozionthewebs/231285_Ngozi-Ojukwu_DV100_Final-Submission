@@ -1,4 +1,12 @@
-<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M31.3433 14.3936H27.8833C26.3539 14.3936 24.8872 14.9722 23.8057 16.0022C22.7243 17.0323 22.1167 18.4293 22.1167 19.886V23.1814H18.6567V27.5754H22.1167V36.3632H26.73V27.5754H30.19L31.3433 23.1814H26.73V19.886C26.73 19.5946 26.8515 19.3152 27.0678 19.1092C27.2841 18.9032 27.5775 18.7875 27.8833 18.7875H31.3433V14.3936Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="25" cy="25" r="24" stroke="black" stroke-width="2"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.4.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:2;}
+</style>
+<path class="st0" d="M31.3,14.4h-3.5c-1.5,0-3,0.6-4.1,1.6c-1.1,1-1.7,2.4-1.7,3.9v3.3h-3.5v4.4h3.5v8.8h4.6v-8.8h3.5l1.2-4.4h-4.6
+	v-3.3c0-0.3,0.1-0.6,0.3-0.8c0.2-0.2,0.5-0.3,0.8-0.3h3.5V14.4z"/>
+<circle class="st1" cx="25" cy="25" r="24"/>
 </svg>
