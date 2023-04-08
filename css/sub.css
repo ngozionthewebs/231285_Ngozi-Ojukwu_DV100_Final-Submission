@@ -285,8 +285,8 @@ ul{
 .box-2{
     border: 1px solid red;
     padding: 10px;
-    margin-top: 130px;
-    margin-left: -40px;
+    margin-left: -150px;
+    
 }
 
 .song li{
@@ -296,14 +296,11 @@ ul{
     vertical-align: top;
     font-size: 18px;
     font-family: 'Open Sans', sans-serif;
-    margin-top: -180px;
-    border: 1px solid red;
-  
+    margin-top:-30px;
+
+    padding-left: 87px;
 }
 
-.song li{
-    padding-left: 57px;
-}
 
 
 
