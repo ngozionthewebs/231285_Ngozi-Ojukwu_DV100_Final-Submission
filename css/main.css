@@ -163,7 +163,9 @@ header h1{
     background-color: #0B0C10;
 }
 
-
+.col-3{
+    margin-left: -10px;
+}
 
 .text-box{
     width: 650px;
