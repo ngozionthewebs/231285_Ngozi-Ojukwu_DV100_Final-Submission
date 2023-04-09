@@ -256,6 +256,11 @@ ul{
     list-style: none;
 }
 
+.songs{
+    margin-top: -50px;
+    margin-left: -10px;
+}
+
 .song-box ul{
     
     padding: 10px;
@@ -285,7 +290,8 @@ ul{
 .box-2{
     border: 1px solid red;
     padding: 10px;
-    margin-left: -150px;
+    margin-left: -141px;
+    margin-top: 0px;
     
 }
 
@@ -299,6 +305,205 @@ ul{
     margin-top:-30px;
 
     padding-left: 87px;
+}
+
+.box-3{
+    border: 1px solid magenta;
+    padding: 10px;
+    margin-left: -137px;
+    margin-top: -20px;
+
+    
+}
+
+.song-1 li{
+    display: inline-block;
+    margin: 5px;
+    vertical-align: top;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif; 
+
+    padding-left: 98px;
+}
+
+.song-1 li p{
+    font-family: 'Poppins', sans-serif; 
+    font-size: 12px;
+
+}
+
+.line-1{
+    width: 664px;
+    height: 2px;
+    background-color: black;
+    margin-top: -20px;
+    margin-left: 120px;
+}
+
+.box-4{
+    border: 1px solid magenta;
+    padding: 10px;
+    margin-left: -137px;
+    margin-top: -20px;
+
+    
+}
+
+.song-2 li{
+    display: inline-block;
+    margin: 5px;
+    vertical-align: top;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif; 
+
+    padding-left: 98px;
+}
+
+.song-2 li p{
+    font-family: 'Poppins', sans-serif; 
+    font-size: 12px;
+
+}
+
+.line-2{
+    width: 664px;
+    height: 2px;
+    background-color: black;
+    margin-top: -20px;
+    margin-left: 120px;
+}
+
+.box-5{
+    border: 1px solid magenta;
+    padding: 10px;
+    margin-left: -137px;
+    margin-top: -20px;
+
+    
+}
+
+.song-3 li{
+    display: inline-block;
+    margin: 5px;
+    vertical-align: top;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif; 
+
+    padding-left: 98px;
+}
+
+.song-3 li p{
+    font-family: 'Poppins', sans-serif; 
+    font-size: 12px;
+
+}
+
+.line-3{
+    width: 664px;
+    height: 2px;
+    background-color: black;
+    margin-top: -20px;
+    margin-left: 120px;
+}
+
+.box-6{
+    border: 1px solid magenta;
+    padding: 10px;
+    margin-left: -137px;
+    margin-top: -20px;
+
+    
+}
+
+.song-4 li{
+    display: inline-block;
+    margin: 5px;
+    vertical-align: top;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif; 
+
+    padding-left: 98px;
+}
+
+.song-4 li p{
+    font-family: 'Poppins', sans-serif; 
+    font-size: 12px;
+
+}
+
+.line-4{
+    width: 664px;
+    height: 2px;
+    background-color: black;
+    margin-top: -20px;
+    margin-left: 120px;
+}
+
+
+.box-7{
+    border: 1px solid magenta;
+    padding: 10px;
+    margin-left: -137px;
+    margin-top: -20px;
+
+    
+}
+
+.song-5 li{
+    display: inline-block;
+    margin: 5px;
+    vertical-align: top;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif; 
+
+    padding-left: 98px;
+}
+
+.song-5 li p{
+    font-family: 'Poppins', sans-serif; 
+    font-size: 12px;
+
+}
+
+.line-5{
+    width: 664px;
+    height: 2px;
+    background-color: black;
+    margin-top: -20px;
+    margin-left: 120px;
+}
+
+.box-8{
+    border: 1px solid magenta;
+    padding: 10px;
+    margin-left: -137px;
+    margin-top: -20px;
+
+    
+}
+
+.song-6 li{
+    display: inline-block;
+    margin: 5px;
+    vertical-align: top;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif; 
+
+    padding-left: 98px;
+}
+
+.song-6 li p{
+    font-family: 'Poppins', sans-serif; 
+    font-size: 12px;
+
+}
+
+.line-6{
+    width: 664px;
+    height: 2px;
+    background-color: black;
+    margin-top: -20px;
+    margin-left: 120px;
 }
 
 
