@@ -1,6 +1,11 @@
 .background{
-    background-color:rgb(247, 202, 209) ;
+    background-color:#0B0C10 ;
     height: 953px;
+}
+
+.background-2{
+    background-color:#0B0C10 ;
+    height: 853px;
 }
 
 .logo{
@@ -17,8 +22,8 @@
     padding-left: 50px;
     padding-top: 20px;
     font-size: 24px;
-    color: black;
-}
+    color: white;}
+    
 
 nav ul{
     list-style: none;
@@ -48,10 +53,12 @@ nav li:hover{
     font-weight: bold;
  }
 
+
 .form-input{
     width: 255px;
     margin-left: 75%;
-    border-color: black;
+    border: 2px #66FCF1 solid;
+    color: white;
     border-radius: 25px;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -74,6 +81,7 @@ nav li:hover{
     margin-left: 122px;
     margin-top: 120px;
     padding-right: 60px;
+    color: white;
 }
 
 
@@ -105,6 +113,7 @@ nav li:hover{
     margin-top: -35px;
     font-size: 18px;
     font-family: 'Open Sans', sans-serif;
+    color: white;
 }
 
 .phone{
@@ -117,6 +126,8 @@ nav li:hover{
     margin-top: -35px;
     font-size: 18px;
     font-family: 'Open Sans', sans-serif;
+    color: white;
+
 }
 
 .map{
@@ -131,7 +142,7 @@ nav li:hover{
 .form-style{
     width: 600px;
     height: 500px;
-    background-color: rgb(233, 175, 185);
+    background-color: #202833;
     margin-top: 115px;
     padding-top: 30px;
 
@@ -139,6 +150,7 @@ nav li:hover{
 
 .form-style h3{
     padding-left:30px;
+    color: white;
 }
 
 
@@ -153,6 +165,8 @@ nav li:hover{
     border: none;
     font-size: 18px;
     font-family: 'Open Sans', sans-serif;
+    background-color: #0B0C10;
+    color: white;
 }
 .mess{
     padding-left: 30px;
@@ -165,6 +179,8 @@ nav li:hover{
     margin-top:10px ;
     padding-top: 15px;
     padding-left: 10px;
+    background-color: #0B0C10;
+    color: white;
 }
 
 button{
@@ -173,8 +189,8 @@ button{
     margin-top: 25px;
     margin-left: 400px;
     border-radius: 40px;
-    background-color: black;
-    color: white;
+    background-color: #66FCF1;
+    color: black;
     font-weight: bold;
     font-size: 24px;
 }
@@ -221,12 +237,15 @@ footer h4{
 .heading{
     margin-left: 122px;
     margin-top: 85px;
+    color: white;
 }
 
 .image{
     width: 470px;
     height: 470px;
-    background-color: pink;
+    background-image: url(../assets/albums/sos.jpeg);
+    background-position: center;
+    background-size: cover;
     text-align: center;
     margin-left: 122px;
     padding-top: 170px;
@@ -236,12 +255,14 @@ footer h4{
     font-size: 64px;
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
+    color: white;
 }
 
 .image h3{
     font-size: 48px;
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
+    color: white;
 
 }
 
@@ -257,15 +278,16 @@ ul{
 }
 
 .songs{
-    margin-top: -50px;
-    margin-left: -10px;
+    margin-top: -40px;
+    margin-left: -30px;
 }
 
 .song-box ul{
     
     padding: 10px;
-    margin-top: 130px;
+    margin-top: 90px;
     margin-left: -40px;
+    color: white;
 
 }
 
@@ -277,227 +299,180 @@ ul{
     vertical-align: top;
     font-size: 18px;
     font-family: 'Poppins', sans-serif; 
+    color: white;
       
 }
 
 .mini-line{
     width: 70px;
     height: 2px;
-    background-color: black;
+    background-color: white;
     margin-left: 30px;
     margin-top: 4px;
 }
 
-.box-2{
 
-    padding: 10px;
-    margin-left: -141px;
-    margin-top: 0px;
-    
+
+
+.numbers{
+  
+    margin-left: -10px;
+    margin-top: -35px;
 }
 
-.song li{
-    display: inline-block;
-    margin: 5px;
-    padding: 10px;
-    vertical-align: top;
-    font-size: 18px;
+.numbers h5{
     font-family: 'Open Sans', sans-serif;
-    margin-top:-30px;
-    font-weight: bold;
-    padding-left: 87px;
+    font-size: 18px;
+    color: white;
+    padding-bottom: 40px;
+    padding-top: 40px;
 }
 
-.box-3{
+.numbers p{
+    padding-bottom: 20px;
+    color: white;
+}
 
-    padding: 10px;
-    margin-left: -137px;
-    margin-top: -20px;
 
+
+.song-title{
+
+    padding-left: 48px;
+    color: white;
+    margin-top: -430px;
     
 }
 
-.song-1 li{
-    display: inline-block;
-    margin: 5px;
-    vertical-align: top;
-    font-size: 14px;
-    font-family: 'Poppins', sans-serif; 
+.song-title h5{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    padding-bottom: 40px;
 
-    padding-left: 98px;
 }
 
-.song-1 li p{
+.song-title h6,p{
+    padding-bottom: 3px;
+    font-family: 'Poppins', sans-serif; 
+}
+
+
+.song-title h6{
+    font-size: 14px;
+}
+
+.song-title p{
+    font-size: 12px;
+}
+
+.albums{
+    color: white;
+
+    padding-left: 318px;
+    margin-top: -442px;
+}
+
+.albums h5{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    padding-bottom: 40px;
+
+}
+
+.albums p{
     font-family: 'Poppins', sans-serif; 
     font-size: 12px;
+    padding-bottom: 29px;
+}
+    
+.time{
+    color: white;
 
+    padding-left: 480px;
+    margin-top: -449px;
+}
+
+.time h5{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    padding-bottom: 40px;
+}
+
+.time p{
+    font-family: 'Poppins', sans-serif; 
+    font-size: 12px;
+    padding-bottom: 29px;
+
+}
+
+.dots{
+    
+
+    color: white;
+    padding-left: 620px;
+    margin-top: -389px;
+}
+
+
+
+.dots p{
+    padding-bottom: 25px;
 }
 
 .line-1{
-    width: 664px;
-    height: 2px;
-    background-color: black;
-    margin-top: -20px;
-    margin-left: 120px;
-}
-
-.box-4{
-
-    padding: 10px;
-    margin-left: -137px;
-    margin-top: -20px;
-
-    
-}
-
-.song-2 li{
-    display: inline-block;
-    margin: 5px;
-    vertical-align: top;
-    font-size: 14px;
-    font-family: 'Poppins', sans-serif; 
-    font-weight: bold;
-    padding-left: 93px;
-}
-
-.song-2 li p{
-    font-family: 'Poppins', sans-serif; 
-    font-size: 12px;
-
+    width: 660px;
+    height: 1px;
+    background-color: #202833;
+    margin-left: -15px;
+    margin-top: -349px;
 }
 
 .line-2{
-    width: 664px;
-    height: 2px;
-    background-color: black;
-    margin-top: -20px;
-    margin-left: 120px;
-}
-
-.box-5{
-
-    padding: 10px;
-    margin-left: -137px;
-    margin-top: -20px;
-
-    
-}
-
-.song-3 li{
-    display: inline-block;
-    margin: 5px;
-    vertical-align: top;
-    font-size: 14px;
-    font-family: 'Poppins', sans-serif; 
-
-    padding-left: 98px;
-}
-
-.song-3 li p{
-    font-family: 'Poppins', sans-serif; 
-    font-size: 12px;
+    width: 660px;
+    height: 1px;
+    background-color: #202833;
+    margin-left: -15px;
+    margin-top: 40px;
 
 }
 
 .line-3{
-    width: 664px;
-    height: 2px;
-    background-color: black;
-    margin-top: -20px;
-    margin-left: 120px;
-}
-
-.box-6{
-
-    padding: 10px;
-    margin-left: -137px;
-    margin-top: -20px;
-
-    
-}
-
-.song-4 li{
-    display: inline-block;
-    margin: 5px;
-    vertical-align: top;
-    font-size: 14px;
-    font-family: 'Poppins', sans-serif; 
-
-    padding-left: 98px;
-}
-
-.song-4 li p{
-    font-family: 'Poppins', sans-serif; 
-    font-size: 12px;
+    width: 660px;
+    height: 1px;
+    background-color: #202833;
+    margin-left: -15px;
+    margin-top: 40px;
 
 }
 
 .line-4{
-    width: 664px;
-    height: 2px;
-    background-color: black;
-    margin-top: -20px;
-    margin-left: 120px;
-}
-
-
-.box-7{
-
-    padding: 10px;
-    margin-left: -137px;
-    margin-top: -20px;
-
-    
-}
-
-.song-5 li{
-    display: inline-block;
-    margin: 5px;
-    vertical-align: top;
-    font-size: 14px;
-    font-family: 'Poppins', sans-serif; 
-
-    padding-left: 98px;
-}
-
-.song-5 li p{
-    font-family: 'Poppins', sans-serif; 
-    font-size: 12px;
+    width: 660px;
+    height: 1px;
+    background-color: #202833;
+    margin-left: -15px;
+    margin-top: 36px;
 
 }
 
 .line-5{
-    width: 664px;
-    height: 2px;
-    background-color: black;
-    margin-top: -20px;
-    margin-left: 120px;
-}
-
-.box-8{
-
-    padding: 10px;
-    margin-left: -137px;
-    margin-top: -20px;
-
-    
-}
-
-.song-6 li{
-    display: inline-block;
-    margin: 5px;
-    vertical-align: top;
-    font-size: 14px;
-    font-family: 'Poppins', sans-serif; 
-
-    padding-left: 98px;
-}
-
-.song-6 li p{
-    font-family: 'Poppins', sans-serif; 
-    font-size: 12px;
+    width: 660px;
+    height: 1px;
+    background-color: #202833;
+    margin-left: -15px;
+    margin-top: 40px;
 
 }
+
+.line-6{
+    width: 660px;
+    height: 1px;
+    background-color: #202833;
+    margin-left: -15px;
+    margin-top: 40px;
+
+}
+
+
+
 
 
 .player-line{
@@ -534,7 +509,9 @@ ul{
 .playing-now{
     width: 70px;
     height: 70px;
-    background-color: grey;
+    background-image: url(../assets/albums/restoration_album_cover.png);
+    background-position: center;
+    background-size: cover;
     border-radius: 5px;
     margin-left: 122px;
 }
@@ -542,7 +519,7 @@ ul{
 .details h6{
     font-family: 'Poppins', sans-serif; 
     font-size: 24px;
-
+    color: white;
     padding-left: 210px;
     margin-top: -60px;
 }
@@ -551,6 +528,7 @@ ul{
     font-family: 'Poppins', sans-serif; 
     font-size: 14px;
     padding-left: 210px;
+    color: white;
 }
 
 
@@ -559,27 +537,28 @@ ul{
     font-size: 18px;
     padding-left: 1190px;
     margin-top: -40px;
+    color: white;
 }
 
 .back{
-    padding-left: 530px;
+    padding-left: 615px;
     margin-top: -80px;
 
 }
 
 .pause{
-    padding-left: 620px;
+    padding-left: 705px;
     margin-top: -70px;
 }
 
 .next{
-    padding-left: 770px;
+    padding-left: 840px;
     margin-top: -80px;
 }
 
 .more{
-   
     padding-left: 1250px;
     margin-top: -40px;
+
 
 }
