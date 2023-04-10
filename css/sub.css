@@ -1,10 +1,10 @@
 .background{
-    background-color:#0B0C10 ;
+    background-color:#3f854d ;
     height: 953px;
 }
 
 .background-2{
-    background-color:#0B0C10 ;
+    background-color:#3f854d   ;
     height: 853px;
 }
 
@@ -57,7 +57,7 @@ nav li:hover{
 .form-input{
     width: 255px;
     margin-left: 75%;
-    border: 2px #66FCF1 solid;
+    border: 2px #F2790F solid;
     color: white;
     border-radius: 25px;
     padding-top: 5px;
@@ -101,11 +101,13 @@ nav li:hover{
 
 .email{
     margin-left: 122px;
+    inline-size: 40px;
  
 }
 
 .contact{
     margin-top: -130px;
+    
 }
 
 .contact p{
@@ -119,6 +121,7 @@ nav li:hover{
 .phone{
     margin-left: 330px;
     margin-top: -55px;
+    inline-size: 40px;
 }
 
 .contact h6{
@@ -142,7 +145,7 @@ nav li:hover{
 .form-style{
     width: 600px;
     height: 500px;
-    background-color: #202833;
+    background-color: #F2F0D5;
     margin-top: 115px;
     padding-top: 30px;
 
@@ -150,7 +153,7 @@ nav li:hover{
 
 .form-style h3{
     padding-left:30px;
-    color: white;
+    color: #A6450D;
 }
 
 
@@ -165,8 +168,8 @@ nav li:hover{
     border: none;
     font-size: 18px;
     font-family: 'Open Sans', sans-serif;
-    background-color: #0B0C10;
-    color: white;
+    background-color: rgb(211, 204, 204);
+    color: #A6450D;
 }
 .mess{
     padding-left: 30px;
@@ -179,8 +182,8 @@ nav li:hover{
     margin-top:10px ;
     padding-top: 15px;
     padding-left: 10px;
-    background-color: #0B0C10;
-    color: white;
+    background-color:rgb(211, 204, 204);
+    color: #A6450D;
 }
 
 button{
@@ -189,8 +192,9 @@ button{
     margin-top: 25px;
     margin-left: 400px;
     border-radius: 40px;
-    background-color: #66FCF1;
-    color: black;
+    border: none;
+    background-color: #F2790F;
+    color: white;
     font-weight: bold;
     font-size: 24px;
 }
@@ -243,7 +247,7 @@ footer h4{
 .image{
     width: 470px;
     height: 470px;
-    background-image: url(../assets/albums/sos.jpeg);
+    background-image: url(../assets/my_albums/steve.webp);
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -255,14 +259,14 @@ footer h4{
     font-size: 64px;
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
-    color: white;
+    color: #2b2b2b;
 }
 
 .image h3{
     font-size: 48px;
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
-    color: white;
+    color: #2b2b2b;
 
 }
 
@@ -331,6 +335,7 @@ ul{
 .numbers p{
     padding-bottom: 20px;
     color: white;
+    inline-size: 24px;
 }
 
 
@@ -421,7 +426,7 @@ ul{
 .line-1{
     width: 660px;
     height: 1px;
-    background-color: #202833;
+    background-color:  #07441c;
     margin-left: -15px;
     margin-top: -349px;
 }
@@ -429,7 +434,7 @@ ul{
 .line-2{
     width: 660px;
     height: 1px;
-    background-color: #202833;
+    background-color:  #07441c;
     margin-left: -15px;
     margin-top: 40px;
 
@@ -438,7 +443,7 @@ ul{
 .line-3{
     width: 660px;
     height: 1px;
-    background-color: #202833;
+    background-color:  #07441c;
     margin-left: -15px;
     margin-top: 40px;
 
@@ -447,7 +452,7 @@ ul{
 .line-4{
     width: 660px;
     height: 1px;
-    background-color: #202833;
+    background-color:  #07441c;
     margin-left: -15px;
     margin-top: 36px;
 
@@ -456,7 +461,7 @@ ul{
 .line-5{
     width: 660px;
     height: 1px;
-    background-color: #202833;
+    background-color:  #07441c;
     margin-left: -15px;
     margin-top: 40px;
 
@@ -465,7 +470,7 @@ ul{
 .line-6{
     width: 660px;
     height: 1px;
-    background-color: #202833;
+    background-color:  #07441c;
     margin-left: -15px;
     margin-top: 40px;
 
@@ -485,7 +490,7 @@ ul{
 .main-line{
     width: 1250px;
     height: 5px;
-    background-color: #202833;
+    background-color:  #07441c;
     margin-left: 7%;
 
 }
@@ -493,14 +498,14 @@ ul{
 .line-fill{
     width: 50%;
     height: 5px;
-    background-color:#66FCF1;
+    background-color:#2b5f29;
 
 }
 
 .marker{
     width: 30px;
     height: 30px;
-    background-color:#66FCF1;
+    background-color:#2b5f29;
     border-radius: 40px;
     margin: 0 auto;
     margin-top: -18px;
@@ -509,7 +514,7 @@ ul{
 .playing-now{
     width: 70px;
     height: 70px;
-    background-image: url(../assets/albums/restoration_album_cover.png);
+    background-image: url(../assets/albums/flowerboy.png);
     background-position: center;
     background-size: cover;
     border-radius: 5px;
@@ -541,19 +546,35 @@ ul{
 }
 
 .back{
-    padding-left: 615px;
-    margin-top: -80px;
+    width: 50px;
+    height: 50px;
+
+    margin-left: 640px;
+    margin-top: -60px;
+
+ 
+
 
 }
 
 .pause{
-    padding-left: 705px;
-    margin-top: -70px;
+    width: 100px;
+    height: 100px;
+
+    margin-top: -80px;
+    margin-left: 720px;
+   
+
+    
+
 }
 
 .next{
-    padding-left: 840px;
-    margin-top: -80px;
+    width: 50px;
+    height: 50px;
+    margin-left: 840px;
+    margin-top: -70px;
+
 }
 
 .more{
